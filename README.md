@@ -60,25 +60,9 @@ student_info.exe
 Enter your choice:
 ```
 
-## 📌 Notes
-
-* This version does **not** use file handling or advanced data structures.
-* Useful for students learning C programming, arrays, and structures.
 
 ## 💡 Future Improvements
 
 * [ ] Add file storage (text/binary)
-* [ ] Sort students by name or marks
 * [ ] Add input validation
 * [ ] Create GUI with C++ or web frontend
-
-## 👨‍💻 Author
-
-**Arun R.**
-📧 [arunr.dev@gmail.com](mailto:arunr.dev@gmail.com)
-🌐 [GitHub Profile](https://github.com/arun-r-007)
-
-## 📝 License
-
-This project is licensed under the **MIT License** — feel free to use and modify it.
-
