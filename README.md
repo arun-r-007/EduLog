@@ -1,4 +1,4 @@
-# 🎓 Student Info Management System (C Project)
+# 🎓 EduLog - Student Info Management System (C Project)
 
 A simple **Student Information Management System** written in **C**, using only basic concepts like arrays and structures — no advanced data structures. This project is designed for beginners to understand how to create a console-based system with CRUD operations.
 
