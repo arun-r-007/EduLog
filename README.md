@@ -1,23 +1,23 @@
-# 🎓 EduLog - Student Info Management System (C Project)
+# EduLog - Student Info Management System (C Project)
 
 A simple **Student Information Management System** written in **C**, using only basic concepts like arrays and structures — no advanced data structures. This project is designed for beginners to understand how to create a console-based system with CRUD operations.
 
-## 🚀 Features
+## Features
 
-- ➕ Add a new student  
-- 📋 Display all students  
-- 🔍 Search student by Roll Number  
-- ✏️ Update student details  
-- 🗑️ Delete student record  
-- ✅ Clean menu-driven interface  
+-  Add a new student  
+-  Display all students  
+-  Search student by Roll Number  
+-  Update student details  
+-  Delete student record  
+-  Clean menu-driven interface  
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Language:** C  
 - **Compiler:** GCC / MinGW  
 - **Platform:** Console (cross-platform: Linux, Windows)
 
-## 📂 File Structure
+## File Structure
 
 ```
 
@@ -27,7 +27,7 @@ Student-Info-Management-System/
 
 ````
 
-## 🧑‍💻 How to Compile & Run
+## How to Compile & Run
 
 ### On Linux/macOS:
 ```bash
@@ -42,9 +42,9 @@ gcc student_info.c -o student_info.exe
 student_info.exe
 ```
 
-> 💡 Make sure GCC is installed. If not, install it via `sudo apt install build-essential` (Linux) or [MinGW](https://www.mingw-w64.org/) (Windows).
+>  Make sure GCC is installed. If not, install it via `sudo apt install build-essential` (Linux) or [MinGW](https://www.mingw-w64.org/) (Windows).
 
-## 🖥️ Sample Output
+## Sample Output
 
 ```
 ==================================================
@@ -68,7 +68,7 @@ Enter your choice:
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 
 * [ ] Add file storage (text/binary)
 * [ ] Add input validation
