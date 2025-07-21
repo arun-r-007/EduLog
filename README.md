@@ -60,6 +60,13 @@ student_info.exe
 Enter your choice:
 ```
 
+---
+
+## Output Screenshot
+
+![Demo Image](https://github.com/user-attachments/assets/83a5827a-a1a5-443e-9503-e61edf68c9de)
+
+---
 
 ## 💡 Future Improvements
 
