@@ -60,6 +60,16 @@ student_info.exe
 Enter your choice:
 ```
 
+## Demo Website
+
+[live Website](https://arun-r-007.github.io/EduLog/)
+
+---
+
+## Website Screenshot
+
+![website Screenshot](https://github.com/user-attachments/assets/d56cb82b-0434-4474-92e5-ecadc50c3327)
+
 ---
 
 ## Output Screenshot
